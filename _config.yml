@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Legit2
+title:               Legit
 tagline:             'Yep.'
-description:         ''
+description:         'Legit X'
 url:                 https://legit.github.io
 baseurl:             'https://legit.github.io'
 paginate:            5
