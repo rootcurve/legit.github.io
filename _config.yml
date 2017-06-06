@@ -8,7 +8,7 @@ title:               Legit
 tagline:             'Yep.'
 description:         ''
 url:                 https://legit.github.io
-baseurl:             ''
+baseurl:             'https://legit.github.io'
 paginate:            5
 
 # About/contact
