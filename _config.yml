@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Legit
 tagline:             'Yep.'
 description:         'Legit X'
-url:                 https://legit.github.io
-baseurl:             'https://legit.github.io'
+url:                 http://thisguyrighthere.com
+baseurl:             'http://thisguyrighthere.com'
 paginate:            5
 
 # About/contact
