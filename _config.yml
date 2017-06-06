@@ -1,12 +1,11 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 # Setup
-title:               Legit
-tagline:             'Yep.'
-description:         'Legit X'
+title:               This Guy Right Here
+tagline:             ''
+description:         ''
 url:                 http://thisguyrighthere.com
 baseurl:             'http://thisguyrighthere.com'
 paginate:            5
