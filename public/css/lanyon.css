@@ -46,10 +46,8 @@ html {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-weight: 400; /* Original */
-  font-weight: bold; /* Legit Edit */
-  color: #313131; /* Original */
-  color: #000; /* Legit Edit */
+  font-weight: bold;
+  color: #000;
   letter-spacing: -.025rem;
 }
 
@@ -104,12 +102,10 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050; /* Original */
-  color: #990000; /* Legit Edit */
+  color: #990000;
 }
 .masthead-title a {
-  color: #505050; /* Original */
-  color: #990000; /* Legit Edit */
+ color: #990000;
 }
 .masthead-title small {
   font-size: 75%;
@@ -255,8 +251,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 30.1em) {
   .sidebar-toggle {
-    position: fixed; /* Original */
-    position: absolute; /* Legit Edit */
+    position: absolute;
   }
 }
 
@@ -321,8 +316,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030; /* Original */
-  color: #000; /* Legit Edit */
+  color: #000;
 }
 .page-title,
 .post-title {
