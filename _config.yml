@@ -5,7 +5,7 @@ permalink:           pretty
 # Setup
 title:               This Guy Right Here
 tagline:             'Writes Right Here'
-description:         'This guy right here writes right here. About anything he wants. Now go eat some croissants. 🥐 🥐 🥐'
+description:         'This guy right here writes right here. About anything he wants. Now go eat some croissants.'
 url:                 http://thisguyrighthere.com
 baseurl:             'http://thisguyrighthere.com'
 paginate:            5
