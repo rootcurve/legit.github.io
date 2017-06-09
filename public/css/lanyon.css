@@ -51,6 +51,12 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
 }
 
+::selection {
+  background: #990000; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #990000; /* Gecko Browsers */
+}
 
 /*
  * Wrapper
