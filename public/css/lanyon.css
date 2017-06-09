@@ -52,11 +52,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::selection {
-  background: #990000; /* WebKit/Blink Browsers */
+  background: #009999; /* WebKit/Blink Browsers */
   color: #fff;
 }
 ::-moz-selection {
-  background: #990000; /* Gecko Browsers */
+  background: #009999; /* Gecko Browsers */
   color: #fff;
 }
 
