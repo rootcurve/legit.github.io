@@ -1,4 +1,4 @@
-function rndDesc() {
+function rndDesc(Id) {
 
 var items = [
 
@@ -14,6 +14,6 @@ var items = [
 
 var item = items[Math.floor(Math.random()*items.length)];
 
-document.getElementById('insert-here').innerHTML = item;
+document.getElementById(Id).innerHTML = item;
 
 }
