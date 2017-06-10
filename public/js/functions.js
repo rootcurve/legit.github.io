@@ -3,9 +3,8 @@ function rndDesc() {
 var items = [
 
 'wants. Now go eat some croissants.',
-'that',
-'the',
-'other'
+'pleases. Now go eat some cheeses.',
+'wishes. Now go clean the dishes.',
 
 ]
 
