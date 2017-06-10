@@ -2,8 +2,12 @@ function rndDesc() {
 
 var items = [
 
-'wants. Now go eat some croissants.',
+'doth crave. Rise from your grave!',
+'decides. No go feed your insides.',
+'desires. A car has four tires.',
+'digs. Now go eat some figs.',
 'pleases. Now go eat some cheeses.',
+'wants. Now go eat some croissants.',
 'wishes. Now go clean the dishes.',
 
 ]
