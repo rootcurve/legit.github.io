@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-published: false
+published: true
 ---
 
-in progress
+<p>This guy right here writes right here. About anything he <span id="DescAbout">wants. Now go eat some croissants.</span></p>
