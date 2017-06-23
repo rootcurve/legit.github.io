@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About thisguyrighthere.com
-published: false
+title: About
+published: true
 ---
 
-xxx
-
-## About this guy right here
-
-This guy right here writes right here. About anything he <span id="DescAbout">wants. Now go eat some croissants.</span>
+Slasm contains my observations, ideas, stories, things that I need to write about to get out of my brain, etc. Beyond that, there is no central theme. I let it flow, like an ocean stream.
