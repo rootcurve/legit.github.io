@@ -48,12 +48,8 @@ var currentIndex = array.length, temporaryValue, randomIndex;
   }
 
   //return array;
+  document.getElementById(Id).innerHTML = array;
 }
-
-document.getElementById(Id).innerHTML = array;
-
-}
-
 
 function rotate(id) {
 var angle = 0, img = document.getElementById(id);
