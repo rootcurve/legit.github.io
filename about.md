@@ -9,7 +9,7 @@ slasm.com contains my observations, ideas, stories, things that I need to write 
 Rotate the Tetrominoes in a specific order for a treat.
 
 <table>
-<tr>
+<tr id="rndBlocks">
 <td><img accesskey="i" onclick="rotate('iblock');" id="iblock" title="I" src="http://slasm.com/images/tetrominoes/iblock.png"></td>
 <td><img accesskey="j" onclick="rotate('jblock');" id="jblock" title="J" src="http://slasm.com/images/tetrominoes/jblock.png"></td>
 <td><img accesskey="o" onclick="rotate('oblock');" id="oblock" title="O" src="http://slasm.com/images/tetrominoes/oblock.png"></td>
