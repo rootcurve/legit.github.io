@@ -21,7 +21,3 @@
     -webkit-transform: rotate(270deg) translateX(-100%);
     -ms-transform: rotate(270deg) translateX(-100%);
 }
-
-.tetrominoes {width:100%;}
-
-.horizon {float:left; padding:10px;}
