@@ -8,4 +8,4 @@ slasm.com contains my observations, ideas, stories, things that I need to write 
 
 For no reason, here's a t-block that rotates when you click/tap it.
 
-<img alt="T-Block" title="T-Block" onclick="rotate();" id="image" src="http://slasm.com/images/tblock.gif"/>
+<img alt="T-Block" title="T-Block" onclick="rotate();" id="image" src="http://slasm.com/images/tblock.png"/>
