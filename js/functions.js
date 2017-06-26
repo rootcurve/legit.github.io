@@ -1,3 +1,4 @@
+/*
 function rndDesc(Id) {
 
 var items = [
@@ -17,6 +18,8 @@ var item = items[Math.floor(Math.random()*items.length)];
 document.getElementById(Id).innerHTML = item;
 
 }
+
+*/
 
 function rotate() {
 var angle = 0, img = document.getElementById('image');
