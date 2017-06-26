@@ -6,7 +6,7 @@ published: true
 
 slasm.com contains my observations, ideas, stories, things that I need to write about to get out of my brain and more. Beyond that, there is no central theme. I let it flow, like an ocean stream.
 
-Here's some Tetrominoes to play with. Rotate them in a specific order for a surpise.
+Here's some Tetrominoes to play with. Rotate them in a specific order for a treat.
 
 <table>
 <tr>
