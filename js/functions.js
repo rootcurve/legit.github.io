@@ -17,3 +17,10 @@ var item = items[Math.floor(Math.random()*items.length)];
 document.getElementById(Id).innerHTML = item;
 
 }
+
+function rotate() {
+var angle = 0, img = document.getElementById('image');
+document.getElementById('image').onclick = function() {
+    angle = (angle+90)%360;
+    img.className = "rotate"+angle;
+}}
