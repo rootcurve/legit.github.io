@@ -1,1 +1,6 @@
-<body class="layout-reverse" onLoad="rndDesc('DescSide');rndDesc('DescAbout');">
+---
+layout: page
+title:
+---
+
+<img onclick="rotate();" id="image" src="http://slasm.com/images/tblock.gif"/>
