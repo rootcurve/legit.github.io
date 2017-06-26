@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: tblock
 ---
 
 <img onclick="rotate();" id="image" src="http://slasm.com/images/tblock.gif"/>
