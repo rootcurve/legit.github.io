@@ -32,7 +32,7 @@ var items = [
 
 ]
 
-var currentIndex = array.length, temporaryValue, randomIndex;
+var currentIndex = items.length, temporaryValue, randomIndex;
 
   // While there remain elements to shuffle...
   while (0 !== currentIndex) {
@@ -42,13 +42,13 @@ var currentIndex = array.length, temporaryValue, randomIndex;
     currentIndex -= 1;
 
     // And swap it with the current element.
-    temporaryValue = array[currentIndex];
-    array[currentIndex] = array[randomIndex];
-    array[randomIndex] = temporaryValue;
+    temporaryValue = items[currentIndex];
+    items[currentIndex] = items[randomIndex];
+    items[randomIndex] = temporaryValue;
   }
 
   //return array;
-  document.getElementById(Id).innerHTML = array;
+  document.getElementById(Id).innerHTML = items;
 }
 
 function rotate(id) {
