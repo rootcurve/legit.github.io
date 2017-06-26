@@ -6,7 +6,7 @@ published: true
 
 slasm.com contains my observations, ideas, stories, things that I need to write about to get out of my brain and more. Beyond that, there is no central theme. I let it flow, like an ocean stream.
 
-Rotate the Tetrominoes in a specific order for a treat.
+Rotate the Tetrominoes in a specific order for a treat. <a accesskey="r" href="javascript:rndBlocks('rndBlocks');"><u>R</u>andomize</a>
 
 <table>
 <tr id="rndBlocks">
@@ -19,5 +19,3 @@ Rotate the Tetrominoes in a specific order for a treat.
 <td><img accesskey="z" onclick="rotate('zblock');" id="zblock" title="Z" src="http://slasm.com/images/tetrominoes/zblock.png"></td>
 </tr>
 </table>
-
-<a accesskey="r" href="javascript:rndBlocks('rndBlocks');"><u>R</u>andomize</a>
