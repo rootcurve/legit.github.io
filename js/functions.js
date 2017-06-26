@@ -49,10 +49,10 @@ var currentIndex = items.length, temporaryValue, randomIndex;
 
   //return array;
   
-  var itemsClean = items.replace(",","");
-  
+  var itemsClean = items.join("");
+    
   document.getElementById(Id).innerHTML = itemsClean;
-  
+   
   }
 
 function rotate(id) {
