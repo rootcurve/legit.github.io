@@ -1,22 +1,22 @@
-/* tblock */
+/* Tetrominoes */
 
-#image {
+#iblock, #jblock, #lblock, #oblock, #sblock, #tblock, #zblock {
     transform-origin: top left; /* IE 10+, Firefox, etc. */
     -webkit-transform-origin: top left; /* Chrome */
     -ms-transform-origin: top left; /* IE 9 */
     cursor: pointer; cursor: hand;
 }
-#image.rotate90 {
+#iblock.rotate90, #jblock.rotate90, #lblock.rotate90, #oblock.rotate90, #sblock.rotate90, #tblock.rotate90, #zblock.rotate90 {
     transform: rotate(90deg) translateY(-100%);
     -webkit-transform: rotate(90deg) translateY(-100%);
     -ms-transform: rotate(90deg) translateY(-100%);
 }
-#image.rotate180 {
+#iblock.rotate180, #jblock.rotate180, #lblock.rotate180, #oblock.rotate180, #sblock.rotate180, #tblock.rotate180, #zblock.rotate180 {
     transform: rotate(180deg) translate(-100%,-100%);
     -webkit-transform: rotate(180deg) translate(-100%,-100%);
     -ms-transform: rotate(180deg) translateX(-100%,-100%);
 }
-#image.rotate270 {
+#iblock.rotate270, #jblock.rotate270, #lblock.rotate270, #oblock.rotate270, #sblock.rotate270, #tblock.rotate270, #zblock.rotate270 {
     transform: rotate(270deg) translateX(-100%);
     -webkit-transform: rotate(270deg) translateX(-100%);
     -ms-transform: rotate(270deg) translateX(-100%);
