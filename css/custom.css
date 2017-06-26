@@ -21,3 +21,9 @@
     -webkit-transform: rotate(270deg) translateX(-100%);
     -ms-transform: rotate(270deg) translateX(-100%);
 }
+
+.blocks{
+    width: 720px;
+    display:inline-block;
+    white-space:nowrap;
+}
