@@ -48,7 +48,7 @@ var currentIndex = items.length, temporaryValue, randomIndex;
   }
 
   //return array;
-  document.getElementById(Id).innerHTML = items.replace("'","";
+  document.getElementById(Id).innerHTML = items.replace("'","");
   
   }
 
