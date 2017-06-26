@@ -47,7 +47,7 @@ var currentIndex = array.length, temporaryValue, randomIndex;
     array[randomIndex] = temporaryValue;
   }
 
-  return array;
+  //return array;
 }
 
 document.getElementById(Id).innerHTML = array;
