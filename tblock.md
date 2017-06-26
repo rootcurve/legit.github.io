@@ -1,6 +1,8 @@
 ---
 layout: page
-title: tblock
+title: Miscellaneous
 ---
 
-<img onclick="rotate();" id="image" src="http://slasm.com/images/tblock.gif"/>
+T-Block
+
+<img alt="T-Block" title="Click Me" onclick="rotate();" id="image" src="http://slasm.com/images/tblock.gif"/>
