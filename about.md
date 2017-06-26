@@ -21,5 +21,3 @@ Rotate the Tetrominoes in a specific order for a treat.
 </table>
 
 <a accesskey="r" href="javascript:rndBlocks('rndBlocks');"><u>R</u>andomize</a>
-
-<a accesskey="a" href="javascript:rotate('iblock');rotate('jblock');rotate('oblock');rotate('lblock');rotate('tblock');rotate('sblock');rotate('zblock');">Rotate All</a>
