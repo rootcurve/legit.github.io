@@ -1,7 +1,7 @@
 ---
 layout: page
 title: test
-published: false
+published: true
 ---
 
 <table>
