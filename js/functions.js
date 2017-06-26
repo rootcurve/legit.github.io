@@ -49,9 +49,9 @@ var currentIndex = items.length, temporaryValue, randomIndex;
 
   //return array;
   
-  items-clean = items.replace("'","");
+  var itemsClean = items.replace("'","");
   
-  document.getElementById(Id).innerHTML = items-clean;
+  document.getElementById(Id).innerHTML = itemsClean;
   
   }
 
