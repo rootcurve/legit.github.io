@@ -8,7 +8,7 @@ slasm.com contains my observations, ideas, stories, things that I need to write 
 
 Here's some Tetrominoes to play with. Rotate them in a specific order for a treat.
 
-<table>
+<table class="clear">
 <tr><td class="tetris"><img onclick="rotate('iblock');" id="iblock" title="I" src="http://slasm.com/images/tetrominoes/iblock.png"></td>
 <td class="tetris"><img onclick="rotate('jblock');" id="jblock" title="J" src="http://slasm.com/images/tetrominoes/jblock.png"></td>
 <td class="tetris"><img onclick="rotate('lblock');" id="lblock" title="L" src="http://slasm.com/images/tetrominoes/lblock.png"></td>
