@@ -31,3 +31,10 @@ table.clear, caption.clear, tbody.clear, tfoot.clear, thead.clear, tr.clear, th.
     vertical-align: baseline;
     background: transparent;
 }}
+
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
