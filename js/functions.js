@@ -18,9 +18,9 @@ document.getElementById(Id).innerHTML = item;
 
 }
 
-function rotate() {
-var angle = 0, img = document.getElementById('image');
-document.getElementById('image').onclick = function() {
+function rotate(id) {
+var angle = 0, img = document.getElementById(id);
+document.getElementById(id).onclick = function() {
     angle = (angle+90)%360;
     img.className = "rotate"+angle;
 }}
