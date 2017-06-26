@@ -22,13 +22,13 @@ function rndBlocks(Id) {
 
 var items = [
   
-'<td><img accesskey="i" onclick="rotate('iblock');" id="iblock" title="I" src="http://slasm.com/images/tetrominoes/iblock.png"/></td>',
-'<td><img accesskey="j" onclick="rotate('jblock');" id="jblock" title="J" src="http://slasm.com/images/tetrominoes/jblock.png"/></td>',
-'<td><img accesskey="o" onclick="rotate('oblock');" id="oblock" title="O" src="http://slasm.com/images/tetrominoes/oblock.png"/></td>',
-'<td><img accesskey="l" onclick="rotate('lblock');" id="lblock" title="L" src="http://slasm.com/images/tetrominoes/lblock.png"/></td>',
-'<td><img accesskey="t" onclick="rotate('tblock');" id="tblock" title="T" src="http://slasm.com/images/tetrominoes/tblock.png"/></td>',
-'<td><img accesskey="s" onclick="rotate('sblock');" id="sblock" title="S" src="http://slasm.com/images/tetrominoes/sblock.png"/></td>',
-'<td><img accesskey="z" onclick="rotate('zblock');" id="zblock" title="Z" src="http://slasm.com/images/tetrominoes/zblock.png"/></td>',
+'<td><img accesskey="i" onclick="rotate(\'iblock\');" id="iblock" title="I" src="http://slasm.com/images/tetrominoes/iblock.png"/></td>',
+'<td><img accesskey="j" onclick="rotate(\'jblock\');" id="jblock" title="J" src="http://slasm.com/images/tetrominoes/jblock.png"/></td>',
+'<td><img accesskey="o" onclick="rotate(\'oblock\');" id="oblock" title="O" src="http://slasm.com/images/tetrominoes/oblock.png"/></td>',
+'<td><img accesskey="l" onclick="rotate(\'lblock\');" id="lblock" title="L" src="http://slasm.com/images/tetrominoes/lblock.png"/></td>',
+'<td><img accesskey="t" onclick="rotate(\'tblock\');" id="tblock" title="T" src="http://slasm.com/images/tetrominoes/tblock.png"/></td>',
+'<td><img accesskey="s" onclick="rotate(\'sblock\');" id="sblock" title="S" src="http://slasm.com/images/tetrominoes/sblock.png"/></td>',
+'<td><img accesskey="z" onclick="rotate(\'zblock\');" id="zblock" title="Z" src="http://slasm.com/images/tetrominoes/zblock.png"/></td>',
 
 ]
 
