@@ -8,12 +8,12 @@ slasm.com contains my observations, ideas, stories, things that I need to write 
 
 Here's some Tetrominoes to play with. Rotate them in a specific order for a treat.
 
-<div class="tetrominoes">
-<img class="horizon" onclick="rotate('iblock');" id="iblock" title="I" src="http://slasm.com/images/tetrominoes/iblock.png">
-<img class="horizon" onclick="rotate('jblock');" id="jblock" title="J" src="http://slasm.com/images/tetrominoes/jblock.png">
-<img class="horizon" onclick="rotate('lblock');" id="lblock" title="L" src="http://slasm.com/images/tetrominoes/lblock.png">
-<img class="horizon" onclick="rotate('oblock');" id="oblock" title="O" src="http://slasm.com/images/tetrominoes/oblock.png">
-<img class="horizon" onclick="rotate('sblock');" id="sblock" title="S" src="http://slasm.com/images/tetrominoes/sblock.png">
-<img class="horizon" onclick="rotate('tblock');" id="tblock" title="T" src="http://slasm.com/images/tetrominoes/tblock.png">
-<img class="horizon" onclick="rotate('zblock');" id="zblock" title="Z" src="http://slasm.com/images/tetrominoes/zblock.png">
-</div>
+<table>
+<tr><td><img onclick="rotate('iblock');" id="iblock" title="I" src="http://slasm.com/images/tetrominoes/iblock.png"></td>
+<td><img onclick="rotate('jblock');" id="jblock" title="J" src="http://slasm.com/images/tetrominoes/jblock.png"></td>
+<td><img onclick="rotate('lblock');" id="lblock" title="L" src="http://slasm.com/images/tetrominoes/lblock.png"></td>
+<td><img onclick="rotate('oblock');" id="oblock" title="O" src="http://slasm.com/images/tetrominoes/oblock.png"></td>
+<td><img onclick="rotate('sblock');" id="sblock" title="S" src="http://slasm.com/images/tetrominoes/sblock.png"></td>
+<td><img onclick="rotate('tblock');" id="tblock" title="T" src="http://slasm.com/images/tetrominoes/tblock.png"></td>
+<td><img onclick="rotate('zblock');" id="zblock" title="Z" src="http://slasm.com/images/tetrominoes/zblock.png"></td></tr>
+</table>
