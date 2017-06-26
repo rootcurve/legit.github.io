@@ -32,9 +32,9 @@ table.clear, caption.clear, tbody.clear, tfoot.clear, thead.clear, tr.clear, th.
     background: transparent;
 }}
 
-td img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
+td.tetris {
+ 
+  text-align:center;
+  vertical-align:center;
+  
 }
