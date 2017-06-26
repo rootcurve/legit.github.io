@@ -22,8 +22,6 @@
     -ms-transform: rotate(270deg) translateX(-100%);
 }
 
-.blocks{
-    width: 720px;
-    display:inline-block;
-    white-space:nowrap;
-}
+.tetrominoes {width:100%;}
+
+.horizon {float:left; padding:10px;}
