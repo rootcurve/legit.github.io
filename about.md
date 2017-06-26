@@ -8,6 +8,8 @@ slasm.com contains my observations, ideas, stories, things that I need to write 
 
 Rotate the Tetrominoes in a specific order for a treat. <a acceskey="r" href="#" onClick="rndBlocks('rndBlocks');">Randomize</a>.
 
+<a href="javascript:rndBlocks('rndBlocks');">Randomize</a>.
+
 <table>
 <tr id="rndBlocks">
 <td><img accesskey="i" onclick="rotate('iblock');" id="iblock" title="I" src="http://slasm.com/images/tetrominoes/iblock.png"></td>
