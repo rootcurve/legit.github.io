@@ -21,3 +21,7 @@
     -webkit-transform: rotate(270deg) translateX(-100%);
     -ms-transform: rotate(270deg) translateX(-100%);
 }
+
+/* Masthead */
+
+.masthead { font-size: 60px; }
