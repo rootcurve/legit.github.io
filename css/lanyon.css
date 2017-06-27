@@ -53,11 +53,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::selection {
-  background: #FF8040; /* WebKit/Blink Browsers */
+  background: #40BFFF; /* WebKit/Blink Browsers */
   color: #fff;
 }
 ::-moz-selection {
-  background: #FF8040; /* Gecko Browsers */
+  background: #40BFFF; /* Gecko Browsers */
   color: #fff;
 }
 
@@ -112,7 +112,6 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #FF8040;
   font-family: 'Open Sans', sans-serif;
 }
 .masthead-title a {
