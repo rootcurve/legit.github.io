@@ -113,8 +113,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0;
   color: #FF8040;
+  color: #40BFFF
+  color: #000;
   font-family: 'Condiment', cursive;
   font-family: 'Open Sans', sans-serif;
+  font-family: 'Aclonica', sans-serif;
  }
 .masthead-title a {
  color: #FF8040;
