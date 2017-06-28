@@ -7,8 +7,8 @@ title:               slasm.com
 tagline:             ''
 description:         ''
 url:                 http://slasm.com
-baseurl:             'http://slasm.com'
-paginate:            5
+baseurl:             ''
+paginate:            1
 
 # About/contact
 author:
