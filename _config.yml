@@ -1,14 +1,14 @@
 # Permalinks
 #
-permalink:           :title
+permalink:           pretty
 
 # Setup
-title:               Slasm
+title:               slasm.com
 tagline:             ''
 description:         ''
-url:                 'http://slasm.com'
-baseurl:             '/'
-paginate:            1
+url:                 http://slasm.com
+baseurl:             'http://slasm.com'
+paginate:            5
 
 # About/contact
 author:
@@ -18,7 +18,3 @@ author:
 
 # Custom vars
 version:             2.0.0
-
-gems:
-  - jekyll-sitemap
-  - jekyll-feed
