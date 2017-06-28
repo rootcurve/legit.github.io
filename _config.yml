@@ -8,7 +8,7 @@ tagline:             ''
 description:         ''
 url:                 http://slasm.com
 baseurl:             'http://slasm.com'
-paginate:            5
+paginate:            1
 
 # About/contact
 author:
