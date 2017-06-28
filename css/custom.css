@@ -55,6 +55,6 @@
 
 /* see all posts */
 
-a.sap   { color: #FF8040; text-transform: uppercase; font-size:1.5em; font-weight:bold;}
-a.sap:hover {color: #FF8040;}
+a.sap   { color: #73d0ff; text-transform: none; font-size:1.5em; font-weight:bold;}
+a.sap:hover {color: #73d0ff;}
 
