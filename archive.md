@@ -11,3 +11,4 @@ title: Archive
         {{ post.title }}
       </a>
     </div>
+{% endfor %}
