@@ -364,7 +364,7 @@ a.sidebar-nav-item:focus {
 }
 .related-posts li a:hover {
   color: #40BFFF;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .related-posts li a:hover small {
   color: inherit;
