@@ -1,20 +1,5 @@
-# Permalinks
-#
 permalink:           :title
-
-# Setup
 title:               Slasm
 tagline:             ''
 description:         ''
-url:                 http://slasm.com
-#baseurl:             'http://slasm.com'
 paginate:            1
-
-# About/contact
-author:
-  name:              
-  url:               
-  email:             
-
-# Custom vars
-version:             2.0.0
