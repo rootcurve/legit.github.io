@@ -3,7 +3,17 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
+{% for post in site.posts %}
+
+<div class="archive-item">
+      <span class="post-date archive-date">{{ post.date | date: "%-d %B %Y" }}</span>
+      <a href="{{ post.url }}" class="archive-title">
+        {{ post.title }}
+      </a>
+    </div>
+{% endfor %}
+
+<!--<div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
@@ -19,7 +29,7 @@ title: Home
   </div>
   {% endfor %}
 
-</div>
+</div>-->
 <!--
 <div class="pagination">
   {% if paginator.next_page %}
