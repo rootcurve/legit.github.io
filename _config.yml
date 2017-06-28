@@ -3,11 +3,11 @@
 permalink:           pretty
 
 # Setup
-title:               slasm.com
+title:               Slasm
 tagline:             ''
 description:         ''
-url:                 
-baseurl:             'http://slasm.com'
+url:                 http://slasm.com
+baseurl:             
 paginate:            1
 
 # About/contact
