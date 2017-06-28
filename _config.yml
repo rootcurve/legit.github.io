@@ -6,7 +6,7 @@ permalink:           :title
 title:               Slasm
 tagline:             ''
 description:         ''
-url:                 http://slasm.com
+url:                 'http://slasm.com'
 baseurl:             /
 paginate:            1
 
