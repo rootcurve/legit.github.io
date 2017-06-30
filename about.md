@@ -4,7 +4,7 @@ title: About
 published: true
 ---
 
-slasm.com contains my observations, ideas, stories, things that I need to write about to get out of my brain and more. Beyond that, there is no central theme. I let it flow, like an ocean stream.
+slasm.com contains my observations, ideas, stories, things that I need to write about to get out of my brain and more. Beyond that, there is no central theme. I let it flow, like an ocean stream.<!--
 
 Rotate the Tetrominoes in a specific order for a treat or <a accesskey="r" href="javascript:rndBlocks('rndBlocks');"><u>r</u>andomize</a> them.
 
@@ -18,4 +18,4 @@ Rotate the Tetrominoes in a specific order for a treat or <a accesskey="r" href=
 <td><img accesskey="s" onclick="rotate('sblock');" id="sblock" title="S" src="http://slasm.com/images/tetrominoes/sblock.png"></td>
 <td><img accesskey="z" onclick="rotate('zblock');" id="zblock" title="Z" src="http://slasm.com/images/tetrominoes/zblock.png"></td>
 </tr>
-</table>
+</table>-->
