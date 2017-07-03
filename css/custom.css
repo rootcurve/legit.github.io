@@ -55,6 +55,23 @@
 
 /* see all posts */
 
-a.sap   { color: #a6e1ff; text-transform: none; font-size:1.5em; font-weight:bold;}
-a.sap:hover {color: #40bfff;}
+a.sap {
+ color: #a6e1ff;
+ color: #e6e6e6;
+ color: #bbb;
+ color: #ccc;
+ text-decoration: none;
+ font-size:1.5em;
+ font-weight:bold;
+}
 
+a.sap:hover {
+ color: #555;
+}
+
+/*
+background-color: #e5e5e5;
+	background-color: #a6e1ff;
+	background-color: #d9f2ff;
+	background-color: #e6e6e6;
+	background-color: #eee; */

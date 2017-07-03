@@ -52,9 +52,9 @@ html {
   font-size: 16px;
   line-height: 1.5;
 }
-@media (min-width: 38em) {
+@media (min-width: 38em) { /* 38em is default */
   html {
-    font-size: 20px;
+    font-size: 26px;
   }
 }
 
@@ -67,8 +67,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #40BFFF;
-  text-decoration: none;
+  color: #000;
 }
 a strong {
   color: inherit;
@@ -76,8 +75,7 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
-  color: #40BFFF;
+  color: #000;
 }
 
 /* Headings */
@@ -87,6 +85,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
+  text-transform: none;
 }
 h1 {
   font-size: 2rem;
@@ -213,21 +212,30 @@ pre code {
   border-radius: 0;
 }
 
-/* Quotes */
+/* Quotes
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
   color: #000;
-  background-color: #f9f9f9;
-}
+  background-color: #f9f8f3;
+}*/
 
 blockquote p:last-child {
   margin-bottom: 0;
 }
-@media (min-width: 30em) {
+@media (min-width: 30em) { /* 30em is default */
   blockquote {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
+    padding-top: .5rem;
+	padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+	background-color: #cae4f0;
+	background-color: #e5e5e5;
+	background-color: #a6e1ff;
+	background-color: #d9f2ff;
+	background-color: #e6e6e6;
+	background-color: #eee;
+	color: #000;
   }
 }
 
@@ -253,6 +261,7 @@ th {
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
+  background-color: #ccc;
 }
 
 
@@ -275,13 +284,6 @@ tbody tr:nth-child(odd) th {
  * or to a parent if there are multiple elements to show.
  */
 
-.message {
-  margin-bottom: 1rem;
-  padding: 1rem;
-  color: #717171;
-  background-color: #f9f9f9;
-}
-
 
 /*
  * Container
@@ -290,7 +292,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
+  max-width: 40rem; /* 38rem; */
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -413,7 +415,7 @@ a.pagination-item:hover {
   background-color: #f5f5f5;
 }
 
-@media (min-width: 30em) {
+@media (min-width: 30em) { /* 30em is default */
   .pagination {
     margin: 3rem 0;
   }
