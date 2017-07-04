@@ -22,9 +22,6 @@
     -ms-transform: rotate(270deg) translateX(-100%);
 }
 
-/* Archive (stolen from markdotto.com/mdo.css)
--------------------------------------------------- */
-
 .archive {
   margin-bottom: 3rem;
 }
