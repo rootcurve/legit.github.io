@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+published: false
 ---
 
 {% for post in site.posts %}
