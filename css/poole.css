@@ -337,9 +337,9 @@ tbody tr:nth-child(odd) th {
   border: none;
 }
 
-.masthead-title a:hover, .masthead-title:focus {
- border:none;
- text-decoration
+.masthead-title a:hover, .masthead-title a:focus {
+ border-bottom:none;
+ text-decoration:none;
 }
 
 .masthead-title small {
