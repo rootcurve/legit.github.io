@@ -44,16 +44,13 @@ body {
 
 html {
  font-family: Georgia, Times, 'Times New Roman', serif;
- font-family: 'Droid Serif', serif;
- 
+  
 }
 
 h1, h2, h3, h4, h5, h6 {
      
 	font-weight: bold;
-/*  font-family: 'Open Sans', sans-serif;
-  font-family: Georgia, Times, 'Times New Roman', serif;*/
-    color: #000;
+  color: #000;
 }
 
 ::selection {
@@ -117,8 +114,6 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  /*font-family: 'Open Sans', sans-serif;
-  font-family: Georgia, Times, 'Times New Roman', serif;*/
 
  }
 
@@ -168,7 +163,6 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  /*font-family: 'Open Sans', sans-serif;*/
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -352,7 +346,7 @@ a.sidebar-nav-item:focus {
   color: #9a9a9a;
   color: #ccc;
   font-size:smaller;
-  /*font-family: 'Open Sans', sans-serif;*/
+ 
 }
 
 /* Related posts */
@@ -392,7 +386,6 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  /*font-family: 'Open Sans', sans-serif;*/
   color: #ccc;
   text-align: center;
 }
