@@ -65,12 +65,12 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
-.post a, .archive-item a {
+.post a, .archive-item a, .container a {
  text-decoration: none;
  border-bottom: 1px solid #bbb;
 }
 
-.post a:hover, .post a:focus, .archive-item a:hover, .archive-item a:focus {
+.post a:hover, .post a:focus, .archive-item a:hover, .archive-item a:focus, .container a:hover, .container a:focus {
  border-bottom: 1px solid #000;
 }
 
@@ -334,7 +334,14 @@ tbody tr:nth-child(odd) th {
 }
 .masthead-title a {
   color: #505050;
+  border: none;
 }
+
+.masthead-title a:hover, .masthead-title:focus {
+ border:none;
+ text-decoration
+}
+
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
