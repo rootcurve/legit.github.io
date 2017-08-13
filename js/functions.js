@@ -7,6 +7,7 @@ var items = [
 'covets. Now go play some trumpets.',
 'decides. No go feed your insides.',
 'desires. Now put out some fires.',
+'determines. Now go eat food made by Germans.'
 'digs. Now go eat some figs.',
 'doth crave. Rise from your grave!',
 'pleases. Now go eat some cheeses.',
