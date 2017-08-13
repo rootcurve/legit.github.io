@@ -4,24 +4,20 @@ var items = [
 
 'chooses. Now go on some cruises.',
 'covets. Now go eat some crumpets.',
-//'covets. Now go play some trumpets.',
-'decrees. Now go fed some bees.',
+'decrees. Now go feed some bees.',
 'decides. No go feed your insides.',
-//'desires. Now put out some fires.',
+'desires. Now put out some fires.',
 'determines. Now go eat food made by Germans.',
+'elects. Now go and do what everyone least expects.',
 'embraces. Now go tie your shoe laces.',
-/*'embraces. Now go places.',
-'embraces. Now watch some races.',*/
 'digs. Now go eat some figs.',
-/*'digs. Now go eat some pigs.',
-'digs. Now go break some twigs.',
-'digs. Now go try on some wigs.',*/
 'doth crave. Rise from your grave!',
+'intends. Now go spend time with friends.',
 'pleases. Now go eat some cheeses.',
-//pleases. Now go cure some diseases.',
+'prefers. Now go buy some furs.',
 'wants. Now go eat some croissants.',
-'wishes. Now go clean the dishes.',
-//'wishes. Now go feed the fishes.'
+'wills. Now go pay your bills.',
+'wishes. Now go clean the dishes.'
 
 ]
 
