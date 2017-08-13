@@ -2,16 +2,16 @@ function rndDesc(Id) {
 
 var items = [
 
-'chooses. Now go on some cruises.
-'covets. Now go eat some crumpets.'
-'covets. Now go play some trumpets.'
+'chooses. Now go on some cruises.',
+'covets. Now go eat some crumpets.',
+'covets. Now go play some trumpets.',
 'decides. No go feed your insides.',
 'desires. Now put out some fires.',
 'digs. Now go eat some figs.',
 'doth crave. Rise from your grave!',
 'pleases. Now go eat some cheeses.',
 'wants. Now go eat some croissants.',
-'wishes. Now go clean the dishes.',
+'wishes. Now go clean the dishes.'
 
 ]
 
