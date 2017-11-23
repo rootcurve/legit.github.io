@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Man’s Sky Review
-published: true
+published: false
 ---
 
 I played No Man's Sky for four or five days of casual gameplay. If I had to guess the number of hours I put in, not an exhaustive number, but a significant number of hours, sufficient to get a good grasp of the game. I wasn't playing with a premeditation of doing a review, but if you continue reading, you'll find out why I did a review.
