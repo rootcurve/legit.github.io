@@ -4,8 +4,6 @@ title: Relaxed Spider
 published: true
 ---
 
-# Rorschach would say you have a hard time relating to others.
-
 I'm really more an apartment person. I think he's got a crush on you, Dex! I'm partial to air conditioning. I'm not the monster he wants me to be. So I'm neither man nor beast. I'm something new entirely. With my own set of rules. I'm Dexter. Boo.
 
 Tell him time is of the essence. Watching ice melt. This is fun. I'm Dexter, and I'm not sure what I am. __I have a dark side, too.__ *Somehow, I doubt that.* You have a good heart, Dexter.
