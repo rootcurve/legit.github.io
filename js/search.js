@@ -8,8 +8,8 @@
             for (var i = 0; i < results.length; i++) {  // Iterate over the results
                 var item = store[results[i].ref];
                 appendString += '<div class="post-preview"><a href="' + item.url + '"><h2 class="post-title">' + item.title + '</h2>';
-                appendString += item.excerpt + '</a>';
-                appendString += '<p class="post-meta">Posted by ' +  item.author + 'on ' + item.date;
+                //appendString += item.excerpt + '</a>';
+                //appendString += '<p class="post-meta">Posted by ' +  item.author + 'on ' + item.date;
                 appendString += '<hr>';
             }
 
