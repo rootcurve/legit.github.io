@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Alpha
-published: false
+published: true
 ---
 
 This is some test content.
