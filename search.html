@@ -13,7 +13,7 @@ layout: search
                 "category": "{{ post.category | xml_escape }}",
                 //"content": {{ post.content | strip_html | strip_newlines | jsonify }},
                 "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-                "excerpt": {{ post.excerpt | jsonify | truncatewords: 100 }},
+                "excerpt": {{ post.excerpt | jsonify }},
                 "url": "{{ post.url | xml_escape }}",
                 "date": "{{ post.date | date: "%B %-d, %Y" }}"
             }
