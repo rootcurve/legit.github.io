@@ -86,4 +86,6 @@ input[type=search] {
     background-color: #202020;
     font-weight: 400;
     color: #fff;
-  border:none; }
+    border:none;
+    padding: .5rem 1rem;
+}
