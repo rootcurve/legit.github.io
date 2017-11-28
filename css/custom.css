@@ -86,9 +86,4 @@ input[type=search] {
     background-color: #202020;
     font-weight: 400;
     color: #fff;
-    textarea:focus, input:focus { outline: none; }
-}
-input::-webkit-search-decoration,
-input::-webkit-search-cancel-button {
-    display: none;
-}
+  border:none; }
