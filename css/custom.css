@@ -64,3 +64,26 @@ a.sap:hover, a.sap:focus {
  color: #555;
  border-bottom: none;
 }
+
+/* Input */
+
+@media only screen and (max-width: 767px) {
+    input[type=search] {
+        background: transparent url(../img/search-icon-black.png) no-repeat 9px center;
+        margin-left: 5px;
+    }
+}
+
+input {
+    outline: none;
+}
+input[type=search] {
+    -webkit-appearance: textfield;
+    -webkit-box-sizing: content-box;
+    font-family: inherit;
+    font-size: 100%;
+}
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button {
+    display: none;
+}
