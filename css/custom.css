@@ -82,6 +82,7 @@ input[type=search] {
     -webkit-box-sizing: content-box;
     font-family: inherit;
     font-size: 100%;
+    padding-left: 1.5rem;
 }
 input::-webkit-search-decoration,
 input::-webkit-search-cancel-button {
