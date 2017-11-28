@@ -8,8 +8,9 @@
     <!--<p>{{ site.description }}</p>-->
     <p><span id="DescSide"></span>My observations, ideas, stories, things and <a href="http://slasm.com/about/">more</a>.</p>
   </div>
-<form action="/search" method="get"><input type="search" placeholder="Search" name="query"></form>
+
   <nav class="sidebar-nav">
+    <form action="/search" method="get"><input type="search" placeholder="Search" name="query" id="query"></form>
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
     {% comment %}
