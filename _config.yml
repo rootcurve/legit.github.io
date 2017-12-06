@@ -1,9 +1,6 @@
 permalink:           :year/:month/:day/:title/
 title:               Slasm
-copyright_name: Slasm
-author: Slasm
 tagline:             ''
 description:         ''
 url:                 'http://slasm.com'
 paginate:            1
-excerpt_separator: <!--more-->
