@@ -7,6 +7,8 @@
 
             for (var i = 0; i < results.length; i++) {  // Iterate over the results
                 var item = store[results[i].ref];
+                appendString += i + 'Results found.';
+                appendString += '<br><br>';
                 appendString += '<div class="post-preview"><a href="' + item.url + '"><h2">' + item.title + '</h2>';
                 appendString += '<br><br>' + item.excerpt + '</a>';
                 //appendString += '<p class="post-meta">Posted by ' +  item.author + 'on ' + item.date;
@@ -14,7 +16,7 @@
                 appendString += '<hr>';
             }
 
-            searchResults.innerHTML = results.length + ' - ' + appendString;
+            searchResults.innerHTML = appendString;
         } else {
             searchResults.innerHTML = 'Nothing Found';
         }
