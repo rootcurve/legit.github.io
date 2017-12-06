@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alligator Fowl
-published: false
+published: true
 ---
 
 Then we'll go with that data file! Say what? Yes, except the Dave Matthews Band doesn't rock. Eeeee! Now say "nuclear wessels"! I saw you with those two "ladies of the evening" at Elzars. Explain that.
@@ -26,7 +26,7 @@ Oh, all right, I am. But if anything happens to me, tell them I died robbing som
 
 I saw you with those two "ladies of the evening" at Elzars. Explain that. Leela, are you alright? You got wanged on the head. When I was first asked to make a film about my nephew, Hubert Farnsworth, I thought "Why should I?" Then later, Leela made the film. But if I did make it, you can bet there would have been more topless women on motorcycles. Roll film!
 
-But I know you in the future. I cleaned your poop. And I'd do it again! And perhaps a third time! But that would be it. Actually, that's still true. We'll need to have a look inside you with this camera.
+But I know you in the future. I cleaned your poop. And I'd do it again! And perhaps a third time! But that would be it. Actually, that's still true. We'll need to have a look inside you with this camera. Rabbit.
 
 For example, if you killed your grandfather, you'd cease to exist! Ugh, it's filthy! Why not create a National Endowment for Strip Clubs while we're at it? Fetal stemcells, aren't those controversial? Fry! Quit doing the right thing, you jerk!
 
