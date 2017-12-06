@@ -4,7 +4,7 @@ title: Alligator Fowl
 published: true
 ---
 
-Then we'll go with that data file! Say what? Yes, except the Dave Matthews Band doesn't rock. Eee`ee! Now say "nuclear wessels"! I saw you with those two "ladies of the evening" at Elzars. Explain that.
+Then we'll go with that data file! Say what? Yes, except the Dave Matthews Band doesn't rock. Eee`ee! Now say "nuclear wessels"! I saw you with those two "ladies of the evening" at Elzars. Explain that. <!--more-->
 
 Moving along… Shinier than yours, meatbag. One hundred dollars. Meh. Fetal stemcells, aren't those controversial? __The alien mothership is in orbit here.__ *If we can hit that bullseye, the rest of the dominoes will fall like a house of cards.* Checkmate.
 
