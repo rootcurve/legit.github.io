@@ -83,11 +83,9 @@ input[type=search] {
     font-family: inherit;
     font-size: 100%;
     /* padding-left: 1.5rem; */
-    padding-left: 10rem; /* Testing */
-    padding: .5rem 1rem; /* Testing */
     background-color: #202020;
     font-weight: 400;
-    color: #fff;
+    color: #ff0000;
     border:none;
     padding: .5rem 1rem;
 }
