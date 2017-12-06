@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alligator Fowl
-published: false
+published: true
 ---
 
 Then we'll go with that data file! Say what? Yes, except the Dave Matthews Band doesn't rock. Eee`ee! Now say "nuclear wessels"! I saw you with those two "ladies of the evening" at Elzars. Explain that. <!--more-->
