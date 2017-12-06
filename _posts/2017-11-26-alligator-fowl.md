@@ -4,7 +4,7 @@ title: Alligator Fowl
 published: true
 ---
 
-Then we'll go with that data file! Say what? Yes, except the Dave Matthews Band doesn't rock. Eeeee! Now say "nuclear wessels"! I saw you with those two "ladies of the evening" at Elzars. Explain that.
+Then we'll go with that data file! Say what? Yes, except the Dave Matthews Band doesn't rock. Eee`ee! Now say "nuclear wessels"! I saw you with those two "ladies of the evening" at Elzars. Explain that.
 
 Moving along… Shinier than yours, meatbag. One hundred dollars. Meh. Fetal stemcells, aren't those controversial? __The alien mothership is in orbit here.__ *If we can hit that bullseye, the rest of the dominoes will fall like a house of cards.* Checkmate.
 
@@ -30,7 +30,7 @@ But I know you in the future. I cleaned your poop. And I'd do it again! And perh
 
 For example, if you killed your grandfather, you'd cease to exist! Ugh, it's filthy! Why not create a National Endowment for Strip Clubs while we're at it? Fetal stemcells, aren't those controversial? Fry! Quit doing the right thing, you jerk!
 
-You are the last hope of the universe. We're rescuing ya. Shinier than yours, meatbag. Five hours? Aw, man! Couldn't you just get me the death penalty? I had more, but you go ahead.
+You are the last hope of the universe. We're rescuing ya. Shinier than yours, meatbag. Five hours? Aw, man! Couldn't you just get me the death penalty? I had more, but you go ahead. Sizzle.
 
 Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. I'm sure those windmills will keep them cool. Look, everyone wants to be like Germany, but do we really have the pure strength of 'will'?
 
