@@ -14,9 +14,9 @@
                 appendString += '<hr>';
             }
 
-            searchResults.innerHTML = appendString;
+            searchResults.innerHTML = results.length + ' - ' + appendString;
         } else {
-            searchResults.innerHTML = 'No results found';
+            searchResults.innerHTML = 'Nothing Found';
         }
     }
 
