@@ -82,7 +82,8 @@ input[type=search] {
     -webkit-box-sizing: content-box;
     font-family: inherit;
     font-size: 100%;
-    padding-left: 1.5rem;
+    /* padding-left: 1.5rem; */
+    padding-left: 2rem; /* Testing */
     padding: .5rem 1rem; /* Testing */
     background-color: #202020;
     font-weight: 400;
