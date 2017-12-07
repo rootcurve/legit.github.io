@@ -19,9 +19,9 @@
 
           var strResults= i + ' ' + strResult + ' found.';
 
-            searchResults.innerHTML = strResults + strDoubleBR + appendString;
+            searchResults.innerHTML = '<h1>' + strResults + strDoubleBR + appendString + '</h1>';
         } else {
-            searchResults.innerHTML = 'Nothing Found';
+            searchResults.innerHTML = '<h1>' + 'Nothing Found' + '</h1>';
         }
     }
 
