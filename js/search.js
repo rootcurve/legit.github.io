@@ -44,7 +44,7 @@
           'yielded'
         ]
         
-        var strRndWord = items[Math.floor(Math.random()*items.length)];
+        var strRndWord = strRndWord[Math.floor(Math.random()*strRndWord.length)];
 
         if (results.length) { // Are there any results?
             var appendString = '';
