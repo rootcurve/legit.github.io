@@ -15,7 +15,7 @@
                 appendString += '<hr>';
             }
           
-        if (i = 1) { strResult = 'result'; } else { strResult = 'results'; }
+        if (i == 1) { strResult = 'result'; } else { strResult = 'results'; }
 
           var strResults= i + ' ' + strResult + ' found.';
 
