@@ -59,14 +59,15 @@
             }
           
         if (i == 1) { strResult = 'result'; } else { strResult = 'results'; }
-
-          //var strResults = i + ' ' + strResult + ' found for ' + searchTerm + '.';
+          
           var strResults = searchTerm + ' ' +  strRndWord + ' ' +  i + ' ' + strResult + '.';
+          var str0Results = searchTerm + ' ' +  strRndWord + ' ' +  '0 results.';
           
 
             searchResults.innerHTML = '<h1>' + strResults + '</h1><hr class="small">' + appendString;
         } else {
-            searchResults.innerHTML = '<h1>' + '0 results found for ' + searchTerm + '.' + '</h1><hr class="small">';
+            searchResults.innerHTML = '<h1>' + strResults + '</h1><hr class="small">' + appendString;
+            searchResults.innerHTML = '<h1>' + str0Results + '</h1><hr class="small">';            
         }
     }
 
