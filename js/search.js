@@ -1,14 +1,14 @@
 (function() {
     function displaySearchResults(results, store) {
         var searchResults = document.getElementById('search-results');
+        var strResults= i + ' results found.';
+        var strDoubleBR = '<br><br>';
 
         if (results.length) { // Are there any results?
             var appendString = '';
 
             for (var i = 0; i < results.length; i++) {  // Iterate over the results
                 var item = store[results[i].ref];
-                appendString += i + ' results found.';
-                appendString += '<br><br>';
                 appendString += '<div class="post-preview"><a href="' + item.url + '"><h2">' + item.title + '</h2>';
                 appendString += '<br><br>' + item.excerpt + '</a>';
                 //appendString += '<p class="post-meta">Posted by ' +  item.author + 'on ' + item.date;
@@ -16,7 +16,7 @@
                 appendString += '<hr>';
             }
 
-            searchResults.innerHTML = appendString;
+            searchResults.innerHTML = strResults + strDoubleBR + appendString;
         } else {
             searchResults.innerHTML = 'Nothing Found';
         }
