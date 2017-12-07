@@ -2,6 +2,49 @@
     function displaySearchResults(results, store) {
         var searchResults = document.getElementById('search-results');
         var strDoubleBR = '<br><br>';
+        var strRndWord = [
+          'accorded',
+          'administered',
+          'allowed',
+          'anted up',
+          'awarded',
+          'bequeathed',
+          'bestowed',
+          'ceded',
+          'commited',
+          'conferred',
+          'consigned',
+          'contributed',
+          'conveyed',
+          'deeded',
+          'delivered',
+          'dished out',
+          'dispensed',
+          'doled out',
+          'donated',
+          'endowed',
+          'entrusted',
+          'forked over',
+          'furnished',
+          'gifted',
+          'granted',
+          'handed over',
+          'parceled out',
+          'parted with',
+          'permitted',
+          'ponied up',
+          'presented',
+          'provided',
+          'relinquished',
+          'shelled out',
+          'transmitted',
+          'turned over',
+          'vouchsafed',
+          'willed',
+          'yielded'
+        ]
+        
+        var strRndWord = items[Math.floor(Math.random()*items.length)];
 
         if (results.length) { // Are there any results?
             var appendString = '';
@@ -17,11 +60,13 @@
           
         if (i == 1) { strResult = 'result'; } else { strResult = 'results'; }
 
-          var strResults= i + ' ' + strResult + ' found for ' + '<code>' + searchTerm + '</code>' + '.';
+          //var strResults = i + ' ' + strResult + ' found for ' + searchTerm + '.';
+          var strResults = searchTerm + ' ' +  strRndWord + ' ' +  i + ' ' + strResult + '.';
+          
 
             searchResults.innerHTML = '<h1>' + strResults + '</h1><hr class="small">' + appendString;
         } else {
-            searchResults.innerHTML = '<h1>' + '0 results found for ' + '<code>' + searchTerm + '</code>' + '.' + '</h1><hr class="small">';
+            searchResults.innerHTML = '<h1>' + '0 results found for ' + searchTerm + '.' + '</h1><hr class="small">';
         }
     }
 
