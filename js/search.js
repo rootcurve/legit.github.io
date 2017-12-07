@@ -15,7 +15,12 @@
                 appendString += '<hr>';
             }
           
-           var strResults= i + ' results foundx.';
+        if (i = 1) {
+          strResult = "result";
+        } else {
+          strResult = "results";
+        }
+          var strResults= i + ' ' + strResult + ' found.';
 
             searchResults.innerHTML = strResults + strDoubleBR + appendString;
         } else {
