@@ -21,7 +21,7 @@
 
             searchResults.innerHTML = '<h1>' + strResults + '</h1><hr class="small">' + appendString;
         } else {
-            searchResults.innerHTML = '<h1>' + '0 results found for ' + searchTerm + '</h1><hr class="small">';
+            searchResults.innerHTML = '<h1>' + '0 results found for ' + '<code>' + searchTerm + '</code>' + '.' + '</h1><hr class="small">';
         }
     }
 
