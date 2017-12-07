@@ -17,7 +17,7 @@
           
         if (i == 1) { strResult = 'result'; } else { strResult = 'results'; }
 
-          var strResults= i + ' ' + strResult + ' found for ' + searchTerm + '.';
+          var strResults= i + ' ' + strResult + ' found for ' + '<code>' + searchTerm + '</code>' + '.';
 
             searchResults.innerHTML = '<h1>' + strResults + '</h1><hr class="small">' + appendString;
         } else {
