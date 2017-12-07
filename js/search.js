@@ -1,7 +1,6 @@
 (function() {
     function displaySearchResults(results, store) {
         var searchResults = document.getElementById('search-results');
-        var strResults= i + ' results found.';
         var strDoubleBR = '<br><br>';
 
         if (results.length) { // Are there any results?
@@ -15,6 +14,8 @@
                 appendString += '<p class="post-meta">Posted on ' + item.date;
                 appendString += '<hr>';
             }
+          
+           var strResults= i + ' results found.';
 
             searchResults.innerHTML = strResults + strDoubleBR + appendString;
         } else {
