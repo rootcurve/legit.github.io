@@ -60,12 +60,11 @@
           
         if (i == 1) { strResult = 'result'; } else { strResult = 'results'; }
           
-          var strResults = searchTerm + ' ' +  strRndWord + ' ' +  i + ' ' + strResult + '.';
-          var str0Results = searchTerm + ' ' +  strRndWord + ' ' +  '0 results.';
-          
+          var strResults = searchTerm + ' ' +  strRndWord + ' ' +  i + ' ' + strResult + '.';     
 
             searchResults.innerHTML = '<h1>' + strResults + '</h1><hr class="small">' + appendString;
         } else {
+            var str0Results = searchTerm + ' ' +  strRndWord + ' ' +  '0 results.';
             searchResults.innerHTML = '<h1>' + strResults + '</h1><hr class="small">' + appendString;
             searchResults.innerHTML = '<h1>' + str0Results + '</h1><hr class="small">';            
         }
