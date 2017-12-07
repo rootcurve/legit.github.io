@@ -15,13 +15,8 @@
                 appendString += '<hr>';
             }
           
-/*        if (i = 1) {
-          strResult = "result";
-        } else {
-          strResult = "results";
-        }
-*/
-var strResult = 'taco'          
+        if (i = 1) { strResult = 'result'; } else { strResult = 'results'; }
+
           var strResults= i + ' ' + strResult + ' found.';
 
             searchResults.innerHTML = strResults + strDoubleBR + appendString;
