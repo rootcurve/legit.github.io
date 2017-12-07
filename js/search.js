@@ -15,11 +15,13 @@
                 appendString += '<hr>';
             }
           
-        if (i = 1) {
+/*        if (i = 1) {
           strResult = "result";
         } else {
           strResult = "results";
         }
+*/
+var strResult = 'taco'          
           var strResults= i + ' ' + strResult + ' found.';
 
             searchResults.innerHTML = strResults + strDoubleBR + appendString;
