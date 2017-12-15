@@ -15,7 +15,7 @@ I say this for one simple reason, how do we know this isn't an elaborate scheme 
 
 <!--<img class="alignnone wp-image-758 size-full" src="https://robthetv.files.wordpress.com/2016/11/humpin-around.gif" width="320" height="240" />-->
 
-!(https://robthetv.files.wordpress.com/2016/11/humpin-around.gif)
+![](https://robthetv.files.wordpress.com/2016/11/humpin-around.gif)
 
 I could be president, serve two terms, leave and then be back in a few years with my wife being elected (puppet) president. I would serve as puppet master, really running the show, then divorce her when her term is up. I could then marry someone else bound for the White House. I could potentially be puppet master president forever!
 
