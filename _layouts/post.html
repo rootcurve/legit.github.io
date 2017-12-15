@@ -6,12 +6,12 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date: "%-d %B %Y" }}</span>
   {{ content }}
-<!--<a class="sap" href="{{ site.url }}">All posts.</a>-->
-  <hr style="width:100px;">
+<a class="sap" href="{{ site.url }}">All posts.</a>
+  <!--<hr style="width:100px;">
   <h3>Recent Posts</h3>
   {% for post in site.posts limit:3 %}  
-  <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-{% endfor %}
+  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}-->
   
 </div>
    
