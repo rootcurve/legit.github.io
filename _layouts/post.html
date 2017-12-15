@@ -10,8 +10,8 @@ layout: default
   <hr style="width:100px;">
   <h3>Recent Posts</h3>
   {% for post in site.posts limit:3 %}  
-  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>  
-{% endfor %}  -->
+  <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
   
 </div>
    
