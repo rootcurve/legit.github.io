@@ -6,8 +6,8 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date: "%-d %B %Y" }}</span>
   {{ content }}
-<!--<a class="sap" href="{{ site.url }}">All posts.</a>
-  <hr>
+<!--<a class="sap" href="{{ site.url }}">All posts.</a>-->
+  <hr style="width:100px;">
   <h3>Recent Posts</h3>
   {% for post in site.posts limit:3 %}  
   <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>  
@@ -16,7 +16,7 @@ layout: default
 </div>
    
 
-<div class="related">
+<!--<div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
@@ -30,4 +30,4 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-</div>
+</div>-->
