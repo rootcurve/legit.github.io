@@ -4,7 +4,7 @@ title: No Spouse In The House
 published: true
 ---
 
-As if I can forget, with the constant barrage of reminders, both indirect (knowledge of the event) and direct (the exact date of the event), whether it be 27 pieces of political spam mail in my mailbox in the past week, countless others the weeks before, spam text messages, word of mouth, Spotify, Google Doodles, Google Popups, and I'm probably forgetting some, tomorrow, Tuesday, November 8, 2016 is election day for the 2016 US presidential election.
+As if I can forget, with the constant barrage of reminders, both indirect (knowledge of the event) and direct (the exact date of the event), whether it be 27 pieces of political spam mail in my mailbox in the past week, countless others the weeks before, spam text messages, word of mouth, Spotify, Google Doodles, Google Popups, and I'm probably forgetting some, tomorrow, Tuesday, November 8, 2016 is election day for the 2016 US presidential election.<!--more-->
 
 <h3><strong>Absolutely Shameful, Spotify:</strong></h3>
 <img class="alignnone wp-image-756 size-full" src="https://robthetv.files.wordpress.com/2016/11/spotify-vote-2016.png" width="281" height="500" />
