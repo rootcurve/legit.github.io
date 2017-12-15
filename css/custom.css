@@ -40,6 +40,11 @@
   margin-bottom: 0;
 }
 
+.post-date {
+  font-size: normal;
+  
+}
+
 @media (min-width: 34rem) {
   .archive-item {
     margin-bottom: .5rem;
