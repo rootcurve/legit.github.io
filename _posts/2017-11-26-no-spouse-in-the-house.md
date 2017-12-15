@@ -13,7 +13,9 @@ I'm not sure why I didn't realize this before, but now I can't stop myself from 
 
 I say this for one simple reason, how do we know this isn't an elaborate scheme of Bill Clinton to install her as a puppet president, leaving him to pull the strings? I don't have anything against Bill Clinton. I have fond memories of <a href="https://www.youtube.com/watch?v=g6TFGrCp9Zg">Bill on In Living Color</a>.
 
-<img class="alignnone wp-image-758 size-full" src="https://robthetv.files.wordpress.com/2016/11/humpin-around.gif" width="320" height="240" />
+<!--<img class="alignnone wp-image-758 size-full" src="https://robthetv.files.wordpress.com/2016/11/humpin-around.gif" width="320" height="240" />-->
+
+!(https://robthetv.files.wordpress.com/2016/11/humpin-around.gif)
 
 I could be president, serve two terms, leave and then be back in a few years with my wife being elected (puppet) president. I would serve as puppet master, really running the show, then divorce her when her term is up. I could then marry someone else bound for the White House. I could potentially be puppet master president forever!
 
