@@ -90,6 +90,19 @@ input[type=search] {
     padding: .5rem 1rem;
 }
 
+/* Header */
+
+#header { 
+display:-webkit-flex;display:-ms-flexbox;display:flex;-ms-flex-align:center;-webkit-align-items:center;align-items:center;padding-right:12px;background:#450200 url(/i/header-bg.jpg) no-repeat}
+#header h1 { 
+margin:0}
+#header img { 
+width:auto;height:23px;margin:15px;color:#fff}
+@media only screen and (max-width:520px) { 
+#header { 
+display:block;padding-right:0}
+}
+
 /* Navigation */
 
 #nav { 
