@@ -26,7 +26,7 @@ I'm going to tell you something that I've never told anyone before. I have a dar
 
 I am not a killer. Keep your mind limber. I'm doing mental jumping jacks. Tonight's the night. And it's going to happen again and again. It has to happen. Hello, Dexter Morgan.
 
-You all right, Dexter? I'm real proud of you for coming, bro. I know you hate funerals. I am not a killer. Watching ice melt. This is fun. Pretend. You pretend the feelings are there, for the world, for the people around you. Who knows? Maybe one day they will be.
+> You all right, Dexter? I'm real proud of you for coming, bro. I know you hate funerals. I am not a killer. Watching ice melt. This is fun. Pretend. You pretend the feelings are there, for the world, for the people around you. Who knows? Maybe one day they will be.
 
 Only you could make those words cute. I think he's got a crush on you, Dex! Only you could make those words cute. Tonight's the night. And it's going to happen again and again. It has to happen. Rabbit.
 
