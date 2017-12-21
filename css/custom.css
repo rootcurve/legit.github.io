@@ -103,6 +103,29 @@ width:auto;height:23px;margin:15px;color:#fff}
 display:block;padding-right:0}
 }
 
+/* Search */
+
+#search-form { 
+display:-webkit-flex;display:-ms-flexbox;display:flex;margin-left:auto}
+#search-form>[role] { 
+display:-webkit-flex;display:-ms-flexbox;display:flex}
+#search-form [type=search] { 
+max-width:200px;border:none}
+#search-form [type=search]:focus { 
+box-shadow:0 0 2px 1px rgba(0,0,0,.6) inset}
+#contact-form { 
+padding:12px;border:3px solid #e3e0d1;background:#f3f3e6}
+.submitarea { 
+margin:1em 0 0}
+@media only screen and (max-width:520px) { 
+#search-form { 
+padding:8px}
+#search-form>[role] { 
+-ms-flex:1;-webkit-flex:1;flex:1}
+#search-form input.txt { 
+max-width:none}
+}
+
 /* Navigation */
 
 #nav { 
