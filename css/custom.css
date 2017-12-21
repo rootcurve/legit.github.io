@@ -93,7 +93,7 @@ input[type=search] {
 /* Header */
 
 #header { 
-display:-webkit-flex;display:-ms-flexbox;display:flex;-ms-flex-align:center;-webkit-align-items:center;align-items:center;padding-right:12px;background:#0000ff}
+display:-webkit-flex;display:-ms-flexbox;display:flex;-ms-flex-align:center;-webkit-align-items:center;align-items:center;padding-right:12px;background:#B0C4DE}
 #header h1 { 
 margin:0}
 /*#header img { 
