@@ -89,3 +89,26 @@ input[type=search] {
     border:none;
     padding: .5rem 1rem;
 }
+
+/* Navigation /*
+
+#nav { 
+padding-top:1px;font-size:16px;line-height:3}
+#nav ul { 
+display:-webkit-flex;display:-ms-flexbox;display:flex;margin:0;padding:0;list-style:none;background:#970601;background:linear-gradient(to bottom,#890000,#b21203)}
+#nav li { 
+margin:0}
+#nav a { 
+display:block;padding:0 12px;border-right:1px solid #bb1600;border-bottom:none;border-left:1px solid #b21203;background:#970601;background:linear-gradient(to bottom,#890000,#b21203);color:#fff;text-decoration:none}
+#nav a:focus,#nav a:hover { 
+background:#b31203!important;background:linear-gradient(to bottom,#bb1a00,#e03104)!important}
+#nav .sel a { 
+background:#720000;background:linear-gradient(to bottom,#580000,#720000)}
+#nav b { 
+font-weight:400}
+@media only screen and (max-width:520px) { 
+#nav { 
+font-size:13px}
+#nav a { 
+padding:0 6px}
+}
