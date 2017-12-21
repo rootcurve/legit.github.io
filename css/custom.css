@@ -173,7 +173,5 @@ padding:0 6px}
 .masthead-title a {
   color: #fff;}
 
-.page-title,
-.post-title {
-  margin-top: 1rem;
-}
+.container {
+  margin-top: 1rem;}
