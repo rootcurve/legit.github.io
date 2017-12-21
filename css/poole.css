@@ -330,11 +330,12 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #000;
 }
 .masthead-title a {
-  color: #505050;
+  color: #000;
   border: none;
+  padding: 0 12px;
 }
 
 .masthead-title a:hover, .masthead-title a:focus {
