@@ -168,5 +168,12 @@ font-size:13px}
 padding:0 6px}
 }
 
+/* Misc */
+
 .masthead-title a {
   color: #fff;}
+
+.page-title,
+.post-title {
+  margin-top: 1rem;
+}
