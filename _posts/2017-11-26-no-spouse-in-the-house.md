@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Spouse In The House
-published: false
+published: true
 ---
 
 As if I can forget, with the constant barrage of reminders, both indirect (knowledge of the event) and direct (the exact date of the event), whether it be 27 pieces of political spam mail in my mailbox in the past week, countless others the weeks before, spam text messages, word of mouth, Spotify, Google Doodles, Google Popups, and I'm probably forgetting some, tomorrow, Tuesday, November 8, 2016 is election day for the 2016 US presidential election.<!--more-->
