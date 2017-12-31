@@ -96,11 +96,13 @@ display:-webkit-flex;display:-ms-flexbox;display:flex;-ms-flex-align:center;
   -webkit-align-items:center;
   align-items:center;padding-right:12px;
   color:#fff;
-  background:#24292e}
+  background:#000 
+  height: 55px;
+
+}
+
 #header h1 { 
 margin:0}
-/*#header img { 
-width:auto;height:23px;margin:15px;color:#fff}*/
 @media only screen and (max-width:520px) { 
 #header { 
 display:block;padding-right:0}
