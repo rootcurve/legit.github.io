@@ -71,7 +71,7 @@ a.sap:hover, a.sap:focus {
     input[type=search] {
         margin-left: 5px;
     }
-}
+}*/
 
 input {
     outline: none;
@@ -87,7 +87,7 @@ input[type=search] {
     color: #fff;
     border:none;
     padding: .5rem 1rem;
-}*/
+}
 
 /* Header */
 
