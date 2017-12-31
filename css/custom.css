@@ -109,7 +109,6 @@ display:block;padding-right:0}
 /* Search */
 
 #search-form { 
-font-size: smaller;
 display:-webkit-flex;display:-ms-flexbox;display:flex;margin-left:auto}
 #search-form>[role] { 
 display:-webkit-flex;display:-ms-flexbox;display:flex}
