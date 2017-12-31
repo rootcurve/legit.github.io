@@ -96,7 +96,7 @@ display:-webkit-flex;display:-ms-flexbox;display:flex;-ms-flex-align:center;
   -webkit-align-items:center;
   align-items:center;padding-right:12px;
   color:#fff;
-  background:#000 
+  background:#000;
   height: 55px;
 
 }
