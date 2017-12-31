@@ -97,7 +97,7 @@ display:-webkit-flex;display:-ms-flexbox;display:flex;-ms-flex-align:center;
   align-items:center;padding-right:12px;
   color:#fff;
   background:#000;
-  
+  height: 70px;
 }
 
 #header h1 { 
