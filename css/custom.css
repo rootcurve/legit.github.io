@@ -65,14 +65,13 @@ a.sap:hover, a.sap:focus {
  border-bottom: none;
 }
 
-/* Input */
+/* Input
 
 @media only screen and (max-width: 767px) {
     input[type=search] {
-        background: transparent url(../img/search-icon-black.png) no-repeat 9px center;
         margin-left: 5px;
     }
-}
+} */
 
 input {
     outline: none;
