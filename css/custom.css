@@ -181,4 +181,16 @@ padding:0 6px}
 
 .masthead-title {
     text-align: left;
-}}
+}
+
+ }
+ 
+@media (max-width: 30em) {
+
+#header {
+	padding: 10px 15px 0 5px;
+	height: 5.5em;
+
+}
+	
+}
