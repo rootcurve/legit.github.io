@@ -177,6 +177,7 @@ padding:0 6px}
 .container {
   margin-top: 1rem;}
   
+/*
 @media (max-width: 48em) {
 
 .masthead-title {
@@ -184,8 +185,13 @@ padding:0 6px}
 }
 
  }
+ */
  
-@media (max-width: 30em) {
+@media (max-width: 33em) {
+
+.masthead-title {
+    text-align: left;
+}
 
 #header {
 	padding: 10px 15px 0 5px;
