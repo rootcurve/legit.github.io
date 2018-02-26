@@ -55,7 +55,16 @@
                 appendString += '<div class="post-preview"><a href="' + item.url + '"><h2">' + item.title + '</h2>';
                 appendString += '<br><br>' + item.excerpt + '</a>';
                 //appendString += '<p class="post-meta">Posted by ' +  item.author + 'on ' + item.date;
-                appendString += '<p class="post-meta">Posted on ' + item.date;
+              
+               var d = item.date;
+               var s1 = d.indexOf(" ");
+               var c = d.indexOf(",");
+               var strMonth = d.slice(0,s1);
+               var strDay = d.slice(s1,c);
+               var strYear = d.slice(-4);
+               var strTotal = strDay + ' ' + strMonth + ' ' + strYear              
+               appendString += '<p class="post-meta">Posted on ' + strTotal;              
+              
                 appendString += '<hr>';
             }
           
