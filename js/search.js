@@ -54,7 +54,8 @@
                 appendString += '<div class="post-preview"><a href="' + item.url + '"><h2">' + item.title + '</h2>';
                 appendString += '<br><br>' + item.excerpt + '</a>';
                 //appendString += '<p class="post-meta">Posted by ' +  item.author + 'on ' + item.date;
-                appendString += '<p class="post-meta">Posted on ' + item.date;
+                //appendString += '<p class="post-meta">Posted on ' + item.date;
+                appendString += '<p class="post-meta">Posted on ' + {{ page.date | date: "%-d %B %Y" }}
                 appendString += '<hr>';
             }
           
