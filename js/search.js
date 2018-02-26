@@ -45,6 +45,13 @@
         ]
         
         var strRndWord = strRndWord[Math.floor(Math.random()*strRndWord.length)];
+      
+      var m_names = new Array("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");
+      var d = new Date();
+      var curr_date = d.getDate();
+      var curr_month = d.getMonth();
+      var curr_year = d.getFullYear();
+      var the-date = curr_date + "-" + m_names[curr_month] + "-" + curr_year;
 
         if (results.length) { // Are there any results?
             var appendString = '';
@@ -55,7 +62,7 @@
                 appendString += '<br><br>' + item.excerpt + '</a>';
                 //appendString += '<p class="post-meta">Posted by ' +  item.author + 'on ' + item.date;
                 //appendString += '<p class="post-meta">Posted on ' + item.date;
-                appendString += '<p class="post-meta">Posted on {{ page.date | date: "%-d %B %Y" }}'
+                appendString += '<p class="post-meta">Posted on ' + the-date;
                 appendString += '<hr>';
             }
           
