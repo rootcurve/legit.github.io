@@ -45,24 +45,25 @@
         ]
         
         var strRndWord = strRndWord[Math.floor(Math.random()*strRndWord.length)];
-      
-      var m_names = new Array("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");
-      var d = new Date();
-      var curr_date = d.getDate();
-      var curr_month = d.getMonth();
-      var curr_year = d.getFullYear();
-      var the-date = curr_date + "-" + m_names[curr_month] + "-" + curr_year;
-
+   
         if (results.length) { // Are there any results?
             var appendString = '';
 
             for (var i = 0; i < results.length; i++) {  // Iterate over the results
                 var item = store[results[i].ref];
+              
+                var m_names = new Array("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");
+                var d = item.date;
+                var curr_date = d.getDate();
+                var curr_month = d.getMonth();
+                var curr_year = d.getFullYear();
+                var the_date = curr_date + "-" + m_names[curr_month] + "-" + curr_year;
+              
                 appendString += '<div class="post-preview"><a href="' + item.url + '"><h2">' + item.title + '</h2>';
                 appendString += '<br><br>' + item.excerpt + '</a>';
                 //appendString += '<p class="post-meta">Posted by ' +  item.author + 'on ' + item.date;
                 //appendString += '<p class="post-meta">Posted on ' + item.date;
-                appendString += '<p class="post-meta">Posted on ' + the-date;
+                appendString += '<p class="post-meta">Posted on ' + the_date;
                 appendString += '<hr>';
             }
           
