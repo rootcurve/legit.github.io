@@ -64,7 +64,7 @@
                appendString += '<p class="post-date">' + strTotal;                           
 
                 
-                appendString += '<br><br>' + item.excerpt + '</a>';
+                appendString += item.excerpt + '</a>';
                 //appendString += '<p class="post-meta">item.author + 'on ' + item.date;
               
                 appendString += '<hr>';
