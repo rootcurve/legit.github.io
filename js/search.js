@@ -52,7 +52,7 @@
             for (var i = 0; i < results.length; i++) {  // Iterate over the results
                 var item = store[results[i].ref];             
 
-                appendString += '<div class="post-preview"><a class="post-title" href="' + item.url + '"><h2">' + item.title + '</h2>';
+                appendString += '<div class="post-preview"><a href="' + item.url + '"><h1 class="post-title">' + item.title + '</h1>';
                 appendString += '<br><br>' + item.excerpt + '</a>';
                 //appendString += '<p class="post-meta">item.author + 'on ' + item.date;
               
