@@ -63,7 +63,7 @@
                var strDay = d.slice(s1,c);
                var strYear = d.slice(-4);
                var strTotal = strDay + ' ' + strMonth + ' ' + strYear              
-               appendString += '<p class="post-meta">Posted on ' + strTotal;              
+               appendString += '<p class="post-date">Posted on ' + strTotal;              
               
                 appendString += '<hr>';
             }
