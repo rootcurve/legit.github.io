@@ -9,3 +9,4 @@ paginate:            1
 excerpt_separator: <!--more-->
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
