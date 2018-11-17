@@ -117,7 +117,7 @@ display:-webkit-flex;display:-ms-flexbox;display:flex;-ms-flex-align:center;
 }
 
 #header {
-  max-width: 30.8rem; /* 38rem; */
+  max-width: 38rem; /* 30.8rem; */
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
