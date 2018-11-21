@@ -10,7 +10,7 @@ Moving along… Shinier than yours, meatbag. One hundred dollars. Meh. Fetal ste
 
 ## I can explain. It's very valuable.
 
-I'm sure those windmills will keep them cool. Really?! No, I'm Santa Claus! Look, everyone wants to be like Germany, but do we really have the pure strength of 'will'? In your time, yes, but nowadays shut up! Besides, these are adult stemcells, harvested from perfectly healthy adults whom I killed for their stemcells.
+I'm sure those windmills will keep them cool. Really?! No, I'm Santa Claus! Look, everyone wants to be like Germany, but do we really have the pure strength of 'will'? In your time, yes, but nowadays shut up! Besides, these are adult stemcells, harvested from perfectly healthy adults whom I killed for their [stemcells](http://duckduckgo.com).
 
 1. Guess again.
 2. Ask her how her day was.
