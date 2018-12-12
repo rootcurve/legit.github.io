@@ -1,5 +1,5 @@
 ---
-title: The steamer Mississippi is aground (1 Sep 1871)
+title: The steamer Mississippi is aground
 tags:
   - sep 1871
 ---
